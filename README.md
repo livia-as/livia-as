@@ -1,6 +1,5 @@
 ### Olá! Me chamo Lívia Silva :woman_technologist:
 ###### Sou iniciante na área de Programação, mas sempre fui apaixonada por linguagens e acabei me encontrando no mundo da Tecnologia da Informação. Espero logo, logo ingressar em uma graduação na área para ajudar com o meu desenvolvimento e crescimento. 
-###### Tenho hobbies diversos. Adoro ler, escrever, música, assistir séries e filmes. E foi assim - assistindo séries, filmes e lendo -, que consegui ficar fluente em Inglês. Com isso, percebi que amo aprender novas línguas e no momento estudo, também, para aprender Libras.  
 ### Estou estudando recentemente:
 ###### Nesse início, tenho focado em estudar Lógica de Programação e fazer Bootcamps básicos na DIO para ir construindo uma base mais sólida. 
 ### Linguagens (no geral) que desejo aprender: 
