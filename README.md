@@ -1,7 +1,7 @@
 ### Olá! Me chamo Lívia Silva :woman_technologist:
 ###### Sou iniciante na área de Programação, mas sempre fui apaixonada por linguagens e acabei me encontrando no mundo da Tecnologia da Informação. Espero logo, logo ingressar em uma graduação na área para ajudar com o meu desenvolvimento e crescimento. 
 ### Estou estudando recentemente:
-###### Nesse início, tenho focado em estudar Lógica de Programação e fazer Bootcamps básicos na DIO para ir construindo uma base mais sólida. 
+###### Nesse início, tenho focado em estudar Lógica de Programação e fazer cursos básicos para ir construindo uma base mais sólida. 
 ### Linguagens (no geral) que desejo aprender: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
